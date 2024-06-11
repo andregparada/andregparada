@@ -1,3 +1,6 @@
+<div style="margin: 20px;">
+</div>  
+
 ## Hi, I'm André Parada! <img align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" height="36" />  Olá, sou André Parada! <img align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" height="36" />
 
 I'm an passionate **backend developer** from Brazil.  
