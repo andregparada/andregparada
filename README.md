@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm André Parada! <img align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" height="36" />  Olá, sou André Parada! <img align="center" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" height="36" />
+
+I'm an ascending passionate **backend developer** from Brazil.  
+Sou um apaixonado **desenvolvedor backend** em ascenção. 
+
+<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdsY3FobjA0bHBlZHZ4MmZ2emYxODQ4MGh6YmlmMnljcGUyNGgwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" height="271" />
 
 <!--
 **andregparada/andregparada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
